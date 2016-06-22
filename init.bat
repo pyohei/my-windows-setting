@@ -5,7 +5,7 @@ doskey grep=grep --color=auto $*
 doskey rm=rm -i $*
 doskey cp=cp -i $*
 doskey mv=mv -i $*
-rem doskey vi=vim $*
+doskey vi=C:\vim\vim.exe $*
 doskey vim=C:\vim\vim.exe $*
 doskey gvim=C:\vim\gvim.exe $*
 
