@@ -8,6 +8,7 @@ doskey mv=mv -i $*
 doskey vi=C:\vim\vim.exe $*
 doskey vim=C:\vim\vim.exe $*
 doskey gvim=C:\vim\gvim.exe $*
+doskey sakura=C:\"Program Files"\sakura\sakura.exe $*
 
 
 rem --- Set loaded flag ---
