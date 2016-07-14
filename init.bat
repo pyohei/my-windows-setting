@@ -11,13 +11,12 @@ doskey gvim=C:\vim\gvim.exe $*
 doskey sakura=C:\"Program Files"\sakura\sakura.exe $*
 doskey peco=C:\peco\peco.exe $*
 
-
 rem --- Set loaded flag ---
 if "%CMD_LOADED%" neq "" goto :eof
 set CMD_LOADED=1
 
 rem --- Set path ---
 set GIT_EDITOR=C:\vim\vim.exe
-set PATH=%PATH%;C:\Program Files\Git\bin;C:\Program Files\Git\usr\bin
+set PATH=%PATH%;C:\Program Files\Git\bin;C:\Program Files\Git\usr\bin;C:\peco
 
 cls
