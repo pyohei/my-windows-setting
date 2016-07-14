@@ -9,6 +9,7 @@ doskey vi=C:\vim\vim.exe $*
 doskey vim=C:\vim\vim.exe $*
 doskey gvim=C:\vim\gvim.exe $*
 doskey sakura=C:\"Program Files"\sakura\sakura.exe $*
+doskey peco=C:\peco\peco.exe $*
 
 
 rem --- Set loaded flag ---
