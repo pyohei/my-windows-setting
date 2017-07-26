@@ -3,6 +3,15 @@
 ## About
 This repository is my development environment settings.  
 
+## Usage 
+
+You put this repository's setting into `%USERPROFILE%¥`.
+After this, you should set registory(`HKEY_CURRENT_USER\SOFTWARE\Microsoft\Command Processor`) as follows.
+
+
+![](https://github.com/pyohei/windows-devenv/blob/master/img/registory_setting.JPG)
+
+
 ## Strategies
 * Basically, install application to `C:\Program Files`
 * Vim(kaoriya) has to install to `C:\vim\vim.exe`
